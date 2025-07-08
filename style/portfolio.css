@@ -176,6 +176,25 @@ main section{
 .resume-download-cv{
     margin-top: 50px;
 }
+/*//  fooder design //*/
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"],footer input[type="email"],textarea {
+    height: 64px;
+    width: 100%;
+    border-color: #FFF8F3;
+    border-radius: 5px;
+    border: none;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
 
 
 
